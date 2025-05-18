@@ -1,6 +1,6 @@
 # 2048 Game - Python Tkinter Implementation
 
-![2048 Game Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
 A classic 2048 puzzle game implementation using Python and Tkinter GUI toolkit. This version includes all the original game mechanics with a clean interface and smooth controls.
 
