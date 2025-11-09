@@ -20,7 +20,7 @@ A classic 2048 puzzle game implementation using Python and Tkinter GUI toolkit. 
 
 1. **Requirements**:
    - Python 3.6 or higher
-   - Tkinter (usually included with Python installation)
+   - Tkinter (usually included with Python installation).
 
 2. **Clone the repository**:
    ```bash
