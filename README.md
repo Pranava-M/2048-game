@@ -6,7 +6,6 @@
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square)
 
 A polished implementation of the classic **2048 puzzle game** built entirely with Python and Tkinter — no external dependencies required. Slide the tiles, merge the numbers, and reach the legendary **2048** tile!
-
 ---
 
 ## ✨ Features
